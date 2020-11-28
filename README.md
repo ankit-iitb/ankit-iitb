@@ -9,4 +9,4 @@ the guidance of <a href="http://www.cs.utah.edu/~stutsman/" target="_blank">Prof
 
 For more details, please check out my <a href="http://www.cs.utah.edu/~ankitb/" target="_blank"> Webpage</a>
 <br>
-<a href="https://scholar.google.co.in/citations?user=bMCHyNcAAAAJ" target="_blank"> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=o_qniMAAAAAJ&hl=en" target="_blank"> Google Scholar</a>
